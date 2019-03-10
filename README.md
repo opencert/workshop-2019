@@ -1,7 +1,7 @@
 # workshop-2019
 Working repository of the "9th International Workshop on
 <br />
-Open Community approaches to Education, Research and Technology"
+<b>Open Community approaches to Education, Research and Technology"</b>
 <br />
 *** towards "Open community approaches" CERTification processes ***
 <br />
