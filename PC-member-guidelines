@@ -1,31 +1,51 @@
-You will be able to interact with the reviewers and you are expected to improve your submission during the review process according the reviewers' comments.
-You will receive more detailed information through another email.
+PC MEMBERS GUIDELINES
+
 
 1. OBTAIN A GITHUB ACCOUNT
 In order to be able to participate in the review process you will need a GitHub account.
 If you have not got one yet, please go to https://github.com and sign up for an account.
 
+
 2. ACCESS SUBMISSION
-Submissions are posted on this repository in form of issues. Click on the tab "Issues" above to access submissions.
-Then click on "Submission n" to access submission number n.
+Submissions PDF filesare posted on this repository in form of issues. Click on the tab "Issues" above to access submissions.
+Then click on "Submission n" to access submission number n. The files are the same that are available on Easychair.
+On Easychair you can also find the submission metadata.
+
 
 3. SELF-ASSIGNING SUBMISSIONS TO REVIEW
-Each PC member should self assign ONE submission to review by posting a message in the related issue of the chosen submission.
+Each PC member should self assign ONE submission to review by posting the following signed message in the related issue
+of the chosen submission:
+
+     I will review this submission.
+     Your-name Your-surname
+     
 Only choose submissions labelled "available for review". Note that initially all submissions are labelled in this way.
 Before self-assigning the submission make sure that the submission has not been self-assigned by the maximum number of
 PC members: 4 PC members for short papers and 5 PC members for regular papers.
 The deadline for self-assigning the review is Monday 21 July 2019.
-If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that has already
-enough reviewers then the Program Co-chairs will assign the submission to you.
+If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
+enough reviewers, then the Program Co-chairs will choose the submission to assign to you.
+Once the assignements of all submissions are completed, they will be entered on Easychair.
+
 
 4. REVIEW PROCESS
 The review process consists of the following phases:
+
 a) INTERACTIVE PHASE (from now until Sunday 4 August)
    You will be able to interact with the authors and you are expected to provide feedback to the authors throughout
-   this review phase. You may put questions to the authors asking clarifications for clarifications.
-   Authors are expected to consider your comments, revise their submission and upload it in the issue by
-   Sunday 4 August
+   this review phase. You may put questions to the authors and ask for clarifications.
+   Authors are expected to consider your comments, revise their submission and upload it in the issue by Sunday 4 August
+   
 b) ASSESSMENT PHASE (from Monday 5 August until Sunday 11 August)
-   You will need to evaluate the revised submission to assess 
-You will receive more detailed information through another email.
+   You will need to evaluate the revised submission to assess whether the authors have revised the submission according
+   the reviewers' comments. By Sunday 11 August you have to upload your review on Easychair. The review form is structured
+   as follows:
+   - highlight the strengths and weaknesses of the initial submission;
+   - summerise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
+   - evaluate whether and how the authors properly addressed the discussion with the reviewers in the revised version;
+   - describe whether and at which level weakness have been overcome the initial weaknesses;
+   - clearly state whether the revised version should be rejected, accepted as it is, accepted with minor revision
+     (at this stage, neither major revision or conditional acceptance are possible).
+
+c) PAPER DISCUSSION (from Sunday 11 August)
 
