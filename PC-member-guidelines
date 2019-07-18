@@ -1,4 +1,5 @@
 PC MEMBERS GUIDELINES
+---------------------
 
 
 1. OBTAIN A GITHUB ACCOUNT
@@ -7,12 +8,12 @@ If you have not got one yet, please go to https://github.com and sign up for an 
 
 
 2. ACCESS SUBMISSION
-Submissions PDF filesare posted on this repository in form of issues. Click on the tab "Issues" above to access submissions.
+Submissions PDF files are posted on this repository in form of issues. Click on the tab "Issues" above to access submissions.
 Then click on "Submission n" to access submission number n. The files are the same that are available on Easychair.
 On Easychair you can also find the submission metadata.
 
 
-3. SELF-ASSIGNING SUBMISSIONS TO REVIEW
+3. SELF-ASSIGN SUBMISSIONS TO REVIEW
 Each PC member should self assign ONE submission to review by posting the following signed message in the related issue
 of the chosen submission:
 
@@ -29,23 +30,24 @@ Once the assignements of all submissions are completed, they will be entered on 
 
 
 4. REVIEW PROCESS
-The review process consists of the following phases:
+The review process consists of the following three phases:
 
 a) INTERACTIVE PHASE (from now until Sunday 4 August)
    You will be able to interact with the authors and you are expected to provide feedback to the authors throughout
    this review phase. You may put questions to the authors and ask for clarifications.
-   Authors are expected to consider your comments, revise their submission and upload it in the issue by Sunday 4 August
+   Authors are expected to consider your comments, revise their submission and upload it in the issue by Sunday 4 August.
    
 b) ASSESSMENT PHASE (from Monday 5 August until Sunday 11 August)
    You will need to evaluate the revised submission to assess whether the authors have revised the submission according
-   the reviewers' comments. By Sunday 11 August you have to upload your review on Easychair. The review form is structured
-   as follows:
-   - highlight the strengths and weaknesses of the initial submission;
-   - summerise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
-   - evaluate whether and how the authors properly addressed the discussion with the reviewers in the revised version;
-   - describe whether and at which level weakness have been overcome the initial weaknesses;
-   - clearly state whether the revised version should be rejected, accepted as it is, accepted with minor revision
-     (at this stage, neither major revision or conditional acceptance are possible).
+   the reviewers' comments. By Sunday 11 August you have to upload your review on Easychair.
+   The review form is structured as follows:
+   (1) highlight the strengths and weaknesses of the initial submission;
+   (2) summarise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
+   (3) evaluate whether and how the authors properly addressed the discussion with the reviewers in the revised version;
+   (4) describe whether and at which level weakness have been overcome the initial weaknesses;
+   (5) clearly state in the part for the PC only whether the revised version should be rejected, accepted as it is,
+     accepted with minor revision (at this stage, neither major revision nor conditional acceptance are possible).
 
-c) PAPER DISCUSSION (from Sunday 11 August)
+c) PAPER DISCUSSION (from Sunday 11 August to Thursday 15 August)
+   It will be carried out on Easychair. Notification is expected on Friday 16 August.
 
