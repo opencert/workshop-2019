@@ -2,7 +2,7 @@
 PC MEMBERS GUIDELINES
 ---------------------
 
-We recedived 7 submission. Each PC member will have to review one paper, according to the procedure detailed as follows.
+We received 7 submissions. Each PC member will have to review one paper according to the procedure detailed as follows.
 
 
 1. OBTAIN A GITHUB ACCOUNT
@@ -21,16 +21,19 @@ issues (https://github.com/opencert/workshop-2019/issues), but you cannot post c
 
 
 3. SELF-ASSIGN SUBMISSIONS TO REVIEW
-Each PC member should self assign ONE submission to review by posting the following signed message in the related issue
-of thethe chosen submission:
+Each PC member should self assign ONE submission to review by posting the following signed comment in the related issue
+of the chosen submission:
 
      I will review this submission.
      Your-name Your-surname
      
 Only choose submissions labelled "available for review". Note that initially all submissions are labelled in this way.
 Before self-assigning the submission make sure that the submission has not been self-assigned by the maximum number of
-PC members: 4 PC members for short papers and 5 PC members for regular papers.
-The deadline for self-assigning the review is Monday 21 July 2019.
+PC members: 4 PC members for short papers and 5 PC members for regular papers. In fact, issue labels do not change in
+real-time, they must be changed manually by the Program Co-chairs. The deadline for self-assigning the review is
+
+     Monday 21 July 2019.
+
 If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
 enough reviewers, then the Program Co-chairs will choose the submission to assign to you.
 Once the assignements of all submissions are completed, they will be entered on Easychair.
