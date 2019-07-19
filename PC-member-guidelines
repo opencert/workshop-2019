@@ -2,6 +2,8 @@
 PC MEMBERS GUIDELINES
 ---------------------
 
+We recedived 7 submission. Each PC member will have to review one paper, according to the procedure detailed as follows.
+
 
 1. OBTAIN A GITHUB ACCOUNT
 In order to be able to participate in the review process you will need a GitHub account.
@@ -14,6 +16,8 @@ Go to the repository web page and click on the tab "Issues" to access submission
 (page https://github.com/opencert/workshop-2019/issues).
 Then click on "Submission n (.../...)" to access submission number n. Title, abstract and PDF file (link at the bottom) are the same
 as the ones available on Easychair. On Easychair you can also find the submission metadata.
+Please note that without a GitHub you can see the repository (https://github.com/opencert/workshop-2019/),
+but you cannot see the issues (https://github.com/opencert/workshop-2019/issues).
 
 
 3. SELF-ASSIGN SUBMISSIONS TO REVIEW
@@ -48,10 +52,44 @@ b) ASSESSMENT PHASE (from Monday 5 August until Sunday 11 August)
    (2) summarise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
    (3) evaluate whether and how the authors properly addressed the discussion with the reviewers in the revised version;
    (4) provide further feedback to the authors aiming to improve the paper;
-   (5) provide an overall evaluation, including a justification for for score/recommendation. (this is confidential for the PC).
+   (5) provide an overall evaluation, including a justification for for score/recommendation
+       (this is confidential for the PC).
 
 c) PAPER DISCUSSION (from Sunday 11 August to Thursday 15 August)
    It will be carried out on Easychair. The revised version maay be be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
    Notification is expected on Friday 16 August.
+   
+
+SUBMISSION CATEGORY AND FORM
+
+In reviewing the submission take into account the category and form of the paper.
+
+We received the following categories of submissions:
+
+RESEARCH PAPERS (Research) to present original research and the analysis, interpretation and validation of the
+research findings.
+
+POSITION PAPERS (Position) to present innovative, arguable ideas, opinions or frameworks which are likely
+to foster discussion at the workshop.
+
+PROJECT PAPERS (Project) to describe a new open community project (e.g. on a hosting provider or a dedicated portal)
+or a new research project, or the status of an ongoing project or the outcomes of a recently completed project.
+
+SURVEY PAPERS (Survey) to collect previously published studies on topics related to the workshop and analyse them
+in the context of open communities.
+
+LEARNING EXPERIENCE PAPERS (LearnExp) to report on a learning experience within an open community
+in a formal education context (e.g. by university students) or in informal education.
+
+We received contributions in the form of
+
+REGULAR PAPERS between 12 and 15 pages for submission (and between 12 and 16 pages for post-proceedings camera-ready).
+
+SHORT PAPERS between 6 and 8 pages for submission (and between 6 and 9 pages for post-proceedings camera-ready).
+
+"Short papers" can discuss new ideas which are at an early stage of development and which have not yet been
+thoroughly evaluated.
+
+
 
